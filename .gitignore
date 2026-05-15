@@ -1,0 +1,9 @@
+.cache/
+.codeoss/
+.gemini/
+.npm/
+.venv/
+venv/
+__pycache__/
+*.log
+.git-credentials
