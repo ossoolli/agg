@@ -7,3 +7,7 @@ venv/
 __pycache__/
 *.log
 .git-credentials
+.env
+.env
+.bash_history
+.venv/
